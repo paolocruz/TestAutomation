@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "8b5023b0ababba269588b97d5043e583"
+build_time: [561784399, 854332000]
+inputs:
+  "/Users/seertechnologies/Desktop/mobileautomation/TestAutomation/TestAutomation/DetailViewController.swift": [561784387, 0]
+  "/Users/seertechnologies/Desktop/mobileautomation/TestAutomation/TestAutomation/MasterViewController.swift": [561784386, 0]
+  "/Users/seertechnologies/Desktop/mobileautomation/TestAutomation/TestAutomation/AppDelegate.swift": [561784386, 0]
